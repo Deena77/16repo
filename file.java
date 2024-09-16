@@ -34,3 +34,5 @@ System.out.println();
 printPattern(n);  
 }  
 }  
+
+UPDATED LINE
